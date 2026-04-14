@@ -1,6 +1,6 @@
 # 👋 Hey there, Harish Ragav (Rishav) here!
 *Building with purpose. Learning with curiosity. Growing without limits.*
-Starting from scratch 14-04-2026
+Starting from scratch 14-04-2026. Compounding🔃
 
 ---
 
@@ -57,7 +57,7 @@ Give me two years.
 
 If you’re reading this in 2028, I hope you see more than just words —
 I hope you see **growth, impact, and consistency**.
-I will update my tech stack then🫡 deal made🤝.
+I will update my tech stack then 14-04-2028🫡 deal made🤝.
 
 I envision myself as someone who has:
 
